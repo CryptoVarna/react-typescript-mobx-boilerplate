@@ -1,0 +1,17 @@
+{
+    "site-name": "React TypeScript MobX Boilerplate",
+    "nav": {
+        "home": "Home",
+        "otherpage": "Other Page"
+    },
+    "homepage": {
+        "title": "Home Page"
+    },
+    "otherpage": {
+        "title": "Other Page",
+        "button": "Disable"
+    },
+    "footer": {
+        "copyright": "Copyright(c) text here"
+    }
+}

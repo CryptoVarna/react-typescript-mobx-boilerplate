@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Roboto Mono, Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffffff;
+}
+
+.toast-stack {
+    position: fixed;
+    z-index: 1;
+    right: 1rem;
+    margin-top: 1rem;
+    width: 280px;
+    height: 100%;
+    pointer-events: none;
+}
+
+.toast-stack-item {
+    pointer-events: auto;
+}

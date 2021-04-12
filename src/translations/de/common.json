@@ -1,0 +1,8 @@
+{
+    "header": {
+        "connect-button" : "Konektiert zum Portfeil"
+    },
+    "welcome": {
+        "title": "Willkommen bei {{framework}}"
+    }
+}
