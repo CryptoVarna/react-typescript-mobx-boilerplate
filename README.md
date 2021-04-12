@@ -16,9 +16,15 @@ A simple React web app boilerplate ready to use.
 -   [Feather Icons](https://feathericons.com/) - Simply beautiful open source icons. React integration [here](https://github.com/feathericons/react-feather).
 -   [Chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
 
+## Dev extras
+
+-   [Prettier](https://prettier.io/) - Code formatter.
+-   [ESLint](https://eslint.org/) - Find and fix problems in your JavaScript code
+
 ## Additional
 
-Favicon generated using https://realfavicongenerator.net/.
+-   Favicon generated using https://realfavicongenerator.net/.
+-   VSCode run Prettier on Save
 
 ## Usage
 
